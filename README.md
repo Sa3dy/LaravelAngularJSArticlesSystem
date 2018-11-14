@@ -25,4 +25,4 @@ in AngularJS controller in "public\js\articleCtrl.js" you need to set the new AP
 
 ## License
 
-This is free to us.
+This is free to use.
